@@ -1,6 +1,7 @@
 # ShiBot-Inu
-
-![](./media/cad_render.gif)
+<p align="center">
+    <img src="./media/cad_render.gif" width="720"/>
+</p>
 
 ## Overview
 
@@ -8,11 +9,15 @@ ShiBot-Inu is a custom built quadruped robot designed for simulation and reinfor
 
 ## Simulation Demos
 
-![](./media/robot_many.gif)
+<p align="center">
+    <img src="./media/many_robot.gif" width="720"/>
+</p>
 
 Training is done on thousands of robot environments in parallel to speed up training of the PPO algorithm.
 
-![](./media/robot_single.gif)
+<p align="center">
+    <img src="./media/single_robot.gif" width="720"/>
+</p>
 
 After 5000 training iterations, the ShiBot-Inu was able to learn a fast walking gait.
 
