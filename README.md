@@ -1,5 +1,9 @@
 # ShiBot-Inu
 
+!(media/cad_image.png)
+
+!(media/cad_render.gif)
+
 ## Overview
 
 ShiBot-Inu is a custom built quadruped robot trained using NVIDIA's Isaac Sim and Isaac Lab for reinforcement learning.
@@ -19,6 +23,11 @@ ShiBot-Inu is a custom built quadruped robot trained using NVIDIA's Isaac Sim an
     # use 'PATH_TO_isaaclab.sh|bat -p' instead of 'python' if Isaac Lab is not installed in Python venv or conda
     python -m pip install -e source/shibot_inu_rl
 
+## Simulation and Learning in Isaac Lab
+
+!(media/robot_many.gif)
+
+!(media/robot_single.gif)
 
 ## Usage
 
