@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Template for Isaac Lab Projects
 
 ## Overview
@@ -133,3 +134,7 @@ Some examples of packages that can likely be excluded are:
 "<path-to-isaac-sim>/extscache/omni.services.*"     // Services tools
 ...
 ```
+=======
+# ShiBot-Inu
+A custom built quadruped robot trained in NVIDIA's Isaac Sim and Isaac Lab with reinforcement learning.
+>>>>>>> e5a376ffacf112c5de7a6be2206bfc02897d50ea
